@@ -1,1 +1,1 @@
-Added header and footer along with background image and some styling using css
+Added navbar background image and css to change text color
